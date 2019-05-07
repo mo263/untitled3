@@ -45,7 +45,7 @@ img {
     border-radius: 4px;
     display: block;
     margin: 1.3em auto;
-    max-width: 95%;
+    max-width: 85%;
 }
 
 @keyframes colorize {
@@ -60,7 +60,7 @@ img {
 }
 
 html{
-	background:white;
+	background:aliceblue;
 }
 
 
